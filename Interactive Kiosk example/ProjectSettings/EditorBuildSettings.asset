@@ -5,15 +5,18 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 1
-    path: Assets/Scenes/GeologyScene.unity
-    guid: 03118562c3f9df042af683c46c43de92
+  - enabled: 0
+    path: Assets/Scripts/Makaka Games/Gallery Kit/Scenes/Menu_GalleryKit.unity
+    guid: a7902cbb43c634eeb81cf2051a448499
+  - enabled: 0
+    path: Assets/Scripts/Makaka Games/Publisher/Everyday Tools/SceneControl/Scenes/LoadScreen.unity
+    guid: 9ea0e271d27a4df6b952de065414d326
+  - enabled: 0
+    path: Assets/Scripts/Makaka Games/Gallery Kit/Scenes/Gallery_GalleryKit.unity
+    guid: 3f9c93322da534d3d9ef052015e994a3
   - enabled: 1
     path: Assets/Scenes/MainMenu.unity
     guid: 9fc0d4010bbf28b4594072e72b8655ab
-  - enabled: 1
-    path: Assets/Scenes/Climate.unity
-    guid: 05aa7761c51d6fa46aaed97f82b8a314
   - enabled: 1
     path: Assets/Scenes/PhysicalGeography.unity
     guid: 6a808fa400476ad4aad1ed709fb2b98f
@@ -21,6 +24,15 @@ EditorBuildSettings:
     path: Assets/Scenes/HumanGeography.unity
     guid: 9ec3666af279d27488d852e570675a57
   - enabled: 1
+    path: Assets/Scenes/GeologyScene.unity
+    guid: 03118562c3f9df042af683c46c43de92
+  - enabled: 1
     path: Assets/Scenes/EcologyScene.unity
     guid: e6165ee754abb354ea0ffa0de4270e2e
+  - enabled: 1
+    path: Assets/Scenes/CourseMaps.unity
+    guid: 3b5eb60752cf477418a3bef342398371
+  - enabled: 1
+    path: Assets/Scenes/Climate.unity
+    guid: 05aa7761c51d6fa46aaed97f82b8a314
   m_configObjects: {}
