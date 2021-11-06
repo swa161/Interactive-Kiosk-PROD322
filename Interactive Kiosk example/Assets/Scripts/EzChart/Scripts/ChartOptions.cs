@@ -15,7 +15,7 @@ namespace ChartUtil
 {
     public enum ChartType
     {
-        PieChart, BarChart, LineChart, RoseChart, RadarChart, Gauge, SolidGauge
+        PieChart, BarChart, LineChart,RoseChart, RadarChart, Gauge, SolidGauge
     }
 
     public enum AxisType
