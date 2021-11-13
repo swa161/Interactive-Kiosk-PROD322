@@ -3343,7 +3343,7 @@ PrefabInstance:
     - target: {fileID: 1105119034256246106, guid: 106a1c886f3c9644eb37125809bb4dbf,
         type: 3}
       propertyPath: m_RootOrder
-      value: 10
+      value: 9
       objectReference: {fileID: 0}
     - target: {fileID: 1105119034256246106, guid: 106a1c886f3c9644eb37125809bb4dbf,
         type: 3}
@@ -3438,7 +3438,7 @@ PrefabInstance:
     - target: {fileID: 1105119034256246109, guid: 106a1c886f3c9644eb37125809bb4dbf,
         type: 3}
       propertyPath: m_Name
-      value: Time and Date
+      value: Time and Date Display
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 106a1c886f3c9644eb37125809bb4dbf, type: 3}
@@ -3452,12 +3452,12 @@ PrefabInstance:
     - target: {fileID: 5414501197909876364, guid: b2601f1bf95a8d54fb6f8080bbae7c3e,
         type: 3}
       propertyPath: m_Name
-      value: Time and Date Display
+      value: Time and Date control
       objectReference: {fileID: 0}
     - target: {fileID: 5414501197909876370, guid: b2601f1bf95a8d54fb6f8080bbae7c3e,
         type: 3}
       propertyPath: m_RootOrder
-      value: 11
+      value: 10
       objectReference: {fileID: 0}
     - target: {fileID: 5414501197909876370, guid: b2601f1bf95a8d54fb6f8080bbae7c3e,
         type: 3}

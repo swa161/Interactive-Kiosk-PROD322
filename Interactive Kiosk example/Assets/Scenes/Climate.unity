@@ -1985,7 +1985,7 @@ GameObject:
   - component: {fileID: 545030987}
   - component: {fileID: 545030986}
   m_Layer: 5
-  m_Name: Button3
+  m_Name: SolarRadiation
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -2156,7 +2156,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 1}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: 17.952589, y: 52.88665}
+  m_AnchoredPosition: {x: 17.951786, y: 52.88665}
   m_SizeDelta: {x: 1080, y: 30}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &545867417
@@ -2576,7 +2576,7 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 56046021}
   m_HandleRect: {fileID: 56046020}
   m_Direction: 2
-  m_Value: 1.0000008
+  m_Value: 1.0000005
   m_Size: 0.8580258
   m_NumberOfSteps: 0
   m_OnValueChanged:
@@ -2635,7 +2635,7 @@ GameObject:
   - component: {fileID: 639747438}
   - component: {fileID: 639747437}
   m_Layer: 5
-  m_Name: Button2
+  m_Name: MeanHumaidity
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -2939,7 +2939,7 @@ GameObject:
   - component: {fileID: 689194221}
   - component: {fileID: 689194220}
   m_Layer: 5
-  m_Name: Button0
+  m_Name: KGClimate
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -3879,7 +3879,7 @@ GameObject:
   - component: {fileID: 833117101}
   - component: {fileID: 833117100}
   m_Layer: 5
-  m_Name: Button1
+  m_Name: MeanTemp
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -4400,7 +4400,7 @@ GameObject:
   - component: {fileID: 939375047}
   - component: {fileID: 939375046}
   m_Layer: 5
-  m_Name: Panel0
+  m_Name: KGClimate
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -6278,7 +6278,7 @@ GameObject:
   - component: {fileID: 1301721978}
   - component: {fileID: 1301721977}
   m_Layer: 5
-  m_Name: Panel1
+  m_Name: MeanTemp
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -6833,8 +6833,8 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 1405181529}
   m_HandleRect: {fileID: 1604543539}
   m_Direction: 0
-  m_Value: -0.000025924759
-  m_Size: 0.8477634
+  m_Value: -0.0000025499753
+  m_Size: 0.8477929
   m_NumberOfSteps: 0
   m_OnValueChanged:
     m_PersistentCalls:
@@ -7115,7 +7115,7 @@ GameObject:
   - component: {fileID: 1461086232}
   - component: {fileID: 1461086231}
   m_Layer: 5
-  m_Name: Panel3
+  m_Name: SolarRadiation
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -7520,7 +7520,7 @@ GameObject:
   - component: {fileID: 1625299813}
   - component: {fileID: 1625299812}
   m_Layer: 5
-  m_Name: Panel2
+  m_Name: MeanHumaidity
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0

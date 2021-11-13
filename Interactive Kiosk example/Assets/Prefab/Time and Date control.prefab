@@ -11,7 +11,7 @@ GameObject:
   - component: {fileID: 5414501197909876370}
   - component: {fileID: 5414501197909876371}
   m_Layer: 0
-  m_Name: Time and Date Display
+  m_Name: Time and Date control
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0

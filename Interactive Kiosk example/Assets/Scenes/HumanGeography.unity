@@ -391,7 +391,7 @@ GameObject:
   - component: {fileID: 54676290}
   - component: {fileID: 54676289}
   m_Layer: 5
-  m_Name: Button0
+  m_Name: Deprivation 2018
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -2696,7 +2696,7 @@ GameObject:
   - component: {fileID: 415484742}
   - component: {fileID: 415484741}
   m_Layer: 5
-  m_Name: Button3
+  m_Name: Aerial
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -4015,7 +4015,7 @@ GameObject:
   - component: {fileID: 533629163}
   - component: {fileID: 533629162}
   m_Layer: 5
-  m_Name: Button2
+  m_Name: FUA
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -6282,7 +6282,7 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 188140765}
   m_HandleRect: {fileID: 188140764}
   m_Direction: 2
-  m_Value: 1.0000008
+  m_Value: 1.0000005
   m_Size: 0.8580258
   m_NumberOfSteps: 0
   m_OnValueChanged:
@@ -6683,7 +6683,7 @@ GameObject:
   - component: {fileID: 872823159}
   - component: {fileID: 872823158}
   m_Layer: 5
-  m_Name: Text (TMP)
+  m_Name: Median Age 2018
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -8416,7 +8416,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 1, y: 0.5}
   m_AnchorMax: {x: 1, y: 0.5}
-  m_AnchoredPosition: {x: 35.90332, y: 143.8866}
+  m_AnchoredPosition: {x: 35.903408, y: 143.8866}
   m_SizeDelta: {x: 1280, y: 30}
   m_Pivot: {x: 1, y: 0.5}
 --- !u!114 &1142244376
@@ -11605,7 +11605,7 @@ GameObject:
   - component: {fileID: 1579297646}
   - component: {fileID: 1579297645}
   m_Layer: 5
-  m_Name: Panel1
+  m_Name: Median Age 2018
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -11701,7 +11701,7 @@ GameObject:
   - component: {fileID: 1584172644}
   - component: {fileID: 1584172643}
   m_Layer: 5
-  m_Name: Panel3
+  m_Name: Aerial
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -13096,7 +13096,7 @@ GameObject:
   - component: {fileID: 1829845530}
   - component: {fileID: 1829845529}
   m_Layer: 5
-  m_Name: Panel0
+  m_Name: Deprivation 2018
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -15114,7 +15114,7 @@ GameObject:
   - component: {fileID: 2146236735}
   - component: {fileID: 2146236734}
   m_Layer: 5
-  m_Name: Panel2
+  m_Name: FUA
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0

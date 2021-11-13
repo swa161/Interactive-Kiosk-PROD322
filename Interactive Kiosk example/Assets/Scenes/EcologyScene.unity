@@ -917,7 +917,7 @@ GameObject:
   - component: {fileID: 174075157}
   - component: {fileID: 174075156}
   m_Layer: 5
-  m_Name: Panel2
+  m_Name: King Crab
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1141,7 +1141,7 @@ GameObject:
   - component: {fileID: 197966175}
   - component: {fileID: 197966174}
   m_Layer: 5
-  m_Name: Button3
+  m_Name: Protected Areas
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1289,7 +1289,7 @@ GameObject:
   - component: {fileID: 199322548}
   - component: {fileID: 199322547}
   m_Layer: 5
-  m_Name: Button2
+  m_Name: King Crab
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1435,7 +1435,7 @@ GameObject:
   - component: {fileID: 200102954}
   - component: {fileID: 200102953}
   m_Layer: 5
-  m_Name: Panel1
+  m_Name: Fur Seal
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -2682,7 +2682,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 1}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: 17.951895, y: 52.88665}
+  m_AnchoredPosition: {x: 17.95195, y: 52.88665}
   m_SizeDelta: {x: 1080, y: 30}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &450263905
@@ -3098,7 +3098,7 @@ GameObject:
   - component: {fileID: 494526982}
   - component: {fileID: 494526981}
   m_Layer: 5
-  m_Name: Button0
+  m_Name: Vegetation Cover
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -3766,7 +3766,7 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 553831582}
   m_HandleRect: {fileID: 553831581}
   m_Direction: 2
-  m_Value: 1.0000008
+  m_Value: 1.0000005
   m_Size: 0.8580258
   m_NumberOfSteps: 0
   m_OnValueChanged:
@@ -4845,7 +4845,7 @@ GameObject:
   - component: {fileID: 987627668}
   - component: {fileID: 987627667}
   m_Layer: 5
-  m_Name: Panel0
+  m_Name: Vegetation Cover
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -5252,7 +5252,7 @@ GameObject:
   - component: {fileID: 1229456373}
   - component: {fileID: 1229456372}
   m_Layer: 5
-  m_Name: Button1
+  m_Name: Fur Seal
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -5522,8 +5522,8 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 1268133894}
   m_HandleRect: {fileID: 1609599007}
   m_Direction: 0
-  m_Value: -0.000005949945
-  m_Size: 0.84538126
+  m_Value: -0.000007437431
+  m_Size: 0.8477678
   m_NumberOfSteps: 0
   m_OnValueChanged:
     m_PersistentCalls:
@@ -7089,7 +7089,7 @@ GameObject:
   - component: {fileID: 1698757107}
   - component: {fileID: 1698757106}
   m_Layer: 5
-  m_Name: Panel3
+  m_Name: Protected Areas
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
