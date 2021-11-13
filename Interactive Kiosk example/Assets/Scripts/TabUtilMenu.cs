@@ -11,7 +11,7 @@ using UnityEngine;
 
 //This class is placed on the TabContainer, as well as the TabButtons and TabPanels objects.
 //It's main purpse is for the TabUtilMenu Inspector
-namespace Chimeforest.TabManager
+namespace TabSystem.TabManager
 {
     class TabUtilMenu : MonoBehaviour
     {

@@ -2,7 +2,7 @@ using System;
 using System.Collections;
 using UnityEngine;
 
-namespace Chimeforest.TabManager
+namespace TabSystem.TabManager
 {
     [Serializable]
     public class Tab : MonoBehaviour

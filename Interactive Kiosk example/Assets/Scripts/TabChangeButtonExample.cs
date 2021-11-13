@@ -1,4 +1,4 @@
-using Chimeforest.TabManager;
+using TabSystem.TabManager;
 using UnityEngine;
 using System.Collections;
 using UnityEngine.UI;

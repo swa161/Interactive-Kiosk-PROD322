@@ -6,7 +6,7 @@ using UnityEditor;
 using UnityEngine;
 using UnityEngine.UI;
 
-namespace Chimeforest.TabManager
+namespace TabSystem.TabManager
 {
 
     [Serializable]

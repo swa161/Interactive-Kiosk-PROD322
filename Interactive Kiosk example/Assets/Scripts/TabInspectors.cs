@@ -7,7 +7,7 @@ using UnityEditor;
 using UnityEngine;
 using UnityEngine.UI;
 
-namespace Chimeforest.TabManager
+namespace TabSystem.TabManager
 {
 #if UNITY_EDITOR
     [CustomEditor(typeof(TabManager))]

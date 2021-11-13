@@ -4,7 +4,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
 
-namespace Chimeforest.TabManager
+namespace TabSystem.TabManager
 {
     public class TabButton : MonoBehaviour
     {

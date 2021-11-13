@@ -5,7 +5,7 @@ using UnityEngine.UI;
 using UnityEditor;
 #endif
 
-namespace Chimeforest.TabManager
+namespace TabSystem.TabManager
 {
     public class TabContainer : MonoBehaviour
     {

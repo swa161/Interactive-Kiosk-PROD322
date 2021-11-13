@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 
-namespace Chimeforest.TabManager
+namespace TabSystem.TabManager
 {
     //this class is used to store configuration data, all settings/configs should be moved here.
     class TabConfig

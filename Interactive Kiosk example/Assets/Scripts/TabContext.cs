@@ -7,7 +7,7 @@ using UnityEditor;
 //using UnityEditor.UI;
 #endif
 
-namespace Chimeforest.TabManager
+namespace TabSystem.TabManager
 {
 #if UNITY_EDITOR
     public class TabContext : Editor

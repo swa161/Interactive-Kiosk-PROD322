@@ -8,7 +8,7 @@ using UnityEngine;
 using UnityEditor;
 #endif
 
-namespace Chimeforest.TabManager
+namespace TabSystem.TabManager
 {
     public static class ComponentExtention
     {

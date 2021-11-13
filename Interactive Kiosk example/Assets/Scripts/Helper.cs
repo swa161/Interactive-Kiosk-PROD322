@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using UnityEngine;
 
-namespace Chimeforest.TabManager
+namespace TabSystem.TabManager
 {
     public class Helper
     {
