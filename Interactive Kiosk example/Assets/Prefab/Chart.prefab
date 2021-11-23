@@ -166,7 +166,7 @@ MonoBehaviour:
     title: xAxis
     titleOption:
       color: {r: 0.2, g: 0.2, b: 0.2, a: 1}
-      fontSize: 40
+      fontSize: 45
       font: {fileID: 0}
       customizedText: {fileID: 0}
     enableLabel: 1
@@ -174,7 +174,7 @@ MonoBehaviour:
     labelNumericFormat: 
     labelOption:
       color: {r: 0.2, g: 0.2, b: 0.2, a: 1}
-      fontSize: 40
+      fontSize: 45
       font: {fileID: 0}
       customizedText: {fileID: 0}
     autoRotateLabel: 1
@@ -201,7 +201,7 @@ MonoBehaviour:
     title: yAxis
     titleOption:
       color: {r: 0.2, g: 0.2, b: 0.2, a: 1}
-      fontSize: 40
+      fontSize: 45
       font: {fileID: 0}
       customizedText: {fileID: 0}
     enableLabel: 1
@@ -210,7 +210,7 @@ MonoBehaviour:
     labelNumericFormat: 
     labelOption:
       color: {r: 0.2, g: 0.2, b: 0.2, a: 1}
-      fontSize: 40
+      fontSize: 45
       font: {fileID: 0}
       customizedText: {fileID: 0}
     autoAxisValues: 1
@@ -241,7 +241,7 @@ MonoBehaviour:
     pointNumericFormat: 
     textOption:
       color: {r: 0.9, g: 0.9, b: 0.9, a: 1}
-      fontSize: 40
+      fontSize: 45
       font: {fileID: 0}
       customizedText: {fileID: 0}
     backgroundColor: {r: 0.2, g: 0.2, b: 0.2, a: 0.7}
@@ -254,7 +254,7 @@ MonoBehaviour:
     numericFormat: 
     textOption:
       color: {r: 0.2, g: 0.2, b: 0.2, a: 1}
-      fontSize: 40
+      fontSize: 45
       font: {fileID: 0}
       customizedText: {fileID: 0}
     enableIcon: 1
@@ -270,7 +270,7 @@ MonoBehaviour:
     numericFormat: 
     textOption:
       color: {r: 0.2, g: 0.2, b: 0.2, a: 1}
-      fontSize: 40
+      fontSize: 45
       font: {fileID: 0}
       customizedText: {fileID: 0}
     anchoredPosition: 1
